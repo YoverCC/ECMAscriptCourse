@@ -7,7 +7,7 @@ Name: Yover Castro
 
 - [x] ES6 - Junio 2015
 - [x] ES7 - Junio 2016
-- [ ] ES8
+- [x] ES8 - Junio 2017
 - [ ] ES9
 - [ ] ES10
 - [ ] ES11
