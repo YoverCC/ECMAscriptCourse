@@ -12,5 +12,8 @@
   ],
   "author": "Yover Castro <ycastroc@uni.pe>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
