@@ -10,6 +10,6 @@ Name: Yover Castro
 - [x] ES8 - Junio 2017
 - [x] ES9 - Junio 2018
 - [x] ES10 - Enero 2019
-- [ ] ES11
+- [ ] ES11 - Junio 2020
 - [ ] ES12
 - [ ] ES13
